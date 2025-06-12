@@ -1,4 +1,5 @@
-What i learned from this course is:
+["What I have learned from this course"]
+
 - Navigating files in Git Bash – Using editors like vim to modify files.
 - Branch management – Creating and switching between branches.
 - Pull requests – Merging changes efficiently using GitHub UI and CLI.
